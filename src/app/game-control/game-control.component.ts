@@ -11,5 +11,7 @@ export class GameControlComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  onPauseGame(){}
+  onStartGame(){}
 
 }
